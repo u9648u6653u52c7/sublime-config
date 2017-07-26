@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Jedi - Python autocompletion",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"React ES6 Snippets",
+		"ReactJS",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Vue Syntax Highlight"
+	]
+}

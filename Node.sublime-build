@@ -1,0 +1,4 @@
+{
+	"cmd": ["/Users/Brave/.nvm/versions/node/v7.6.0/bin/node", "$file"],
+	"selector": "source.js"
+}

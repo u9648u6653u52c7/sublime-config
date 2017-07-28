@@ -11,6 +11,7 @@
 		"Autoprefixer",
 		"BracketHighlighter",
 		"ConvertToUTF8",
+		"CSScomb",
 		"DocBlockr",
 		"Emmet",
 		"Git",

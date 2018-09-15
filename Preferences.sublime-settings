@@ -10,7 +10,7 @@
 			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
 		}
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -19,11 +19,12 @@
 		".idea",
 		"CVS"
 	],
-	"font_face": "Monaco",
+	"font_face": "Menlo",
 	"font_size": 12,
 	"ignored_packages":
 	[
 	],
+	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
